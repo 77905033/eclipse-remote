@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 public class Demo1Application {
 
 	public static void main(String[] args) {
-		System.out.println("sssss");
+		System.out.println("ssssssaaaaass");
 		SpringApplication.run(Demo1Application.class, args);
 	}
 
